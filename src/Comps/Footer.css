@@ -1,0 +1,13 @@
+.Footer{
+    /* border: 2px solid red; */
+    height: 27.9vh;
+    background: rgb(41, 42, 42);
+    display: flex;
+}
+.footer{
+    /* border: 2px solid red; */
+    width: 33.33%;
+    padding-left: 100px;
+    padding-right: 10px;
+    color: whitesmoke;
+}
